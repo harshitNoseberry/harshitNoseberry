@@ -30,15 +30,8 @@ Tools & DevOps
 <p> <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,cloudflare" /> </p>
 🏗 Current Projects
 
-🎥 AI Video Tool — generating templates, scenes, and animations
-
-💬 Real-time Chat App with screenshot blocking
-
-🎯 Mentorship Platform (sessions + payments + chat)
-
 🏢 Property/Booking Management System
 
-🤖 Text-to-Image Model Training using GTX 1650
 
 📊 GitHub Stats
 <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=harshitNoseberry&show_icons=true&theme=tokyonight" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitNoseberry&layout=compact&theme=tokyonight" /> </div>
